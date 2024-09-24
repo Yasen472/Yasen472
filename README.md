@@ -9,11 +9,11 @@ I'm a software developer with experience in web development and database managem
 - 📫 How to reach me: yasengeorgiev44@gmail.com
 
 ## My Skills
-- React
+- React.js
 - MongoDB
 - JavaScript
 - Python
 - SQL
 - Database Design and Management
-- 
+
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about tech!
